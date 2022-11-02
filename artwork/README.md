@@ -16,4 +16,3 @@ All rights are reserved to Simon Lee who claims all the original artwork of this
 - Chapter VIII. The Chase
 - Chapter IX. Castle
 - Chapter X. Self
--
