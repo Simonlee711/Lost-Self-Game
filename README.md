@@ -9,7 +9,7 @@ Like Where'd my Bread, I want to make everything from scratch from artwork, musi
 
 # Synopsis
 
-This game is widely inspired by the existential question: *why are we here?* It starts with a protaganist who does not have a purpose, but can embark on two diverging roads. One of which where he musters up the courage to be happy about himself, or the contrary where they are trying to overcome who they once were. The playstyle of the game is very much up to the player in determining which road they want to take. The Plot is very much still a work in progress, so this repository will be updated as I progress along.
+This game is widely inspired by the existential question: *why are we here?* It starts with a protaganist who does not have a purpose, but can embark on two diverging roads. One of which where he musters up the ability to accept himself for who he is, or the contrary where they are trying to overcome who they once were. The playstyle of the game is very much up to the player in determining which road they want to take. The Plot is very much still a work in progress, so this repository will be updated as I progress along.
 
 ---
 
