@@ -1,6 +1,6 @@
 # Artwork for the Lost Self Video Game
 
-All rights are reserved to Simon Lee who claims all the original artwork of this video game.
+All rights are reserved to Simon Lee who claims all the original artwork of this video game. All the artwork was conducted on the Aesprite software.
 
 ---
 
