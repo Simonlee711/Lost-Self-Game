@@ -1,6 +1,7 @@
 # Lost 
+
 <p align="center">
-![Alt Text](https://github.com/Simonlee711/Lost-Self-Game/blob/main/animated_from_images.gif)
+  <img src="https://github.com/Simonlee711/Lost-Self-Game/blob/main/animated_from_images.gif" alt="animated" />
 </p>
 
 ### An indie game by Simon Lee
