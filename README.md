@@ -1,10 +1,9 @@
 # Lost 
+### An indie game by Simon Lee
 
 <p align="center">
   <img src="https://github.com/Simonlee711/Lost-Self-Game/blob/main/animated_from_images.gif" alt="animated" />
 </p>
-
-### An indie game by Simon Lee
 
 After my first run of developing my first video game, ["Where's my Bread"](https://github.com/Simonlee711/Basic_Game), I am officially returning to the game developing community with my second run **Lost Self**
 
