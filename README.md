@@ -1,11 +1,14 @@
-# Lost Self
+# Lost 
+<p align="center">
+![Alt Text](https://github.com/Simonlee711/Lost-Self-Game/blob/main/animated_from_images.gif)
+</p>
+
 ### An indie game by Simon Lee
 
 After my first run of developing my first video game, ["Where's my Bread"](https://github.com/Simonlee711/Basic_Game), I am officially returning to the game developing community with my second run **Lost Self**
 
 Like Where'd my Bread, I want to make everything from scratch from artwork, music, plot, etc. I will be making the game on an actual game engine, [GameMakerStudio2](https://gamemaker.io/en/gamemaker?utm_source=google&utm_medium=cpc&utm_campaign=US%20-%20Search%20-%20EN%20-%20Generic&gclid=Cj0KCQjwqoibBhDUARIsAH2OpWj8bF3_c62zsWEIGit6MQi6AtwKlKcU-QZKa4aBqtNJjfJEuxIosXQaAqrpEALw_wcB), so my game does not need to experience major processing lag like Find My Bread. Feel free to track my journey, as this will be one of my more long term projects I plan to work on. 
 
-![Alt Text](https://github.com/Simonlee711/Lost-Self-Game/blob/main/animated_from_images.gif)
 
 ---
 
